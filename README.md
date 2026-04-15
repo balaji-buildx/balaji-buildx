@@ -44,7 +44,7 @@ SDE-1 at [Atoa Payments](https://paywithatoa.co.uk) - building features, fixing 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaji-buildx&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Balaji's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balaji-buildx&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Balaji's GitHub stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-buildx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
